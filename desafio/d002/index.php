@@ -16,6 +16,6 @@
             echo "<p>O valor gerado foi: <strong>$num<strong></p>"
         ?>
         <button onclick="javascript:document.location.reload()">&#x1f504; Gerar outro</button>
-    </main>
+    </main>   
 </body>
 </html>

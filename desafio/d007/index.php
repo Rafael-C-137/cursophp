@@ -21,7 +21,7 @@
     </main>
     <section>
         <h2>Resultado final</h2>
-        <?php 
+        <?php  
             $rq = sqrt($numero);        
             $rc = $numero ** (1/3);
             
